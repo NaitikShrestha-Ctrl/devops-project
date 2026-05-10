@@ -1,0 +1,29 @@
+# Version Control and Collaborative Platforms in Software Development
+
+Version Control
+
+Version control refers to the process where the changes made to the code are tracked to help in the tracing of modifications and comparison. In software development, version control helps the developers keep track of different stages of the project.
+
+ In cases where version control systems like Git are implemented, branching and merging become easier since changes can be made without interfering with other changes. In addition, according to Leite et al. (2020), version control is an important DevOps practice because it helps improve collaboration, traceability, and software development quality through the tracking of different changes.
+
+According to Erich et al. (2017), version control is essential in the coordination of activities within the software development environment due to integration improvement.
+
+
+Collaborative Platforms
+
+Collaboration tools are those applications that merge version control with other functionalities such as code review, issue management, and pipeline automation. They include GitHub, GitLab, and Bitbucket. These collaboration tools allow people to work together effectively and maintain project quality in a structured manner.
+
+Such collaboration tools have been extensively adopted in the DevOps world because they facilitate continuous integration and delivery processes. As mentioned by Davis and Daniels (2016), DevOps culture is highly dependent on collaboration, shared accountability, and tooling, wherein such collaboration tools facilitate seamless communication between developers and operations engineers.
+
+
+Why Version Control and Collaborative Platforms Are Used
+
+There are various reasons why collaboration and version control tools are used in software development processes:
+
+    1) Enhanced Collaboration: Different developers can collaborate on the same project without any problems.
+    2) Modification Tracking: Each modification can be tracked.
+    3) Backup Options: The earlier version can be recovered if necessary.
+    4) Concurrent Development: Parallel development processes are possible through branching.
+    5) Quality Improvements: Code review processes minimize bugs.
+
+According to Lwakatare et al. (2019), organizations using the DevOps approach and collaboration/ version control tools benefit from enhanced communication processes, fast software development and delivery processes, among others.
